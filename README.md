@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashmi Singh</h1>
-<h3 align="center">A final year B.Tech Student, specialized in Electronics and Computer Engineerng.
+<h3 align="center">A final year B.Tech Student, specialized in Electronics and Computer Engineering.
 <br>
 I have a strong interest in the fields of Data Analytics, Machine Learning, and Backend Development.</h3>
 
