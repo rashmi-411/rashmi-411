@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashmi Singh</h1>
-<h3 align="center">A passionate Data Analytics from India</h3>
+<h3 align="center">A final year B.Tech Student, specialized in Electronics and Computer Engineerng.
+<br>
+I have a strong interest in the fields of Data Analytics, Machine Learning, and Backend Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmi-411&label=Profile%20views&color=0e75b6&style=flat" alt="rashmi-411" /> </p>
 
